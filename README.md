@@ -1,1 +1,1 @@
-
+A backend service built with Go that allows users to subscribe to RSS feeds and aggregate posts from multiple sources into a personalized feed. This project is designed to be a high-performance, scalable solution for content aggregation.
